@@ -1,0 +1,7 @@
+{
+  "name": "ModelAI - AI Architectural Converter",
+  "description": "Convert 2D architectural sketches and floor plans into 3D BIM models and CAD files using Generative AI and Computer Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
